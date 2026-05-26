@@ -5,6 +5,9 @@ Detect AI writing patterns and rewrite text to sound like a person actually wrot
 ![AI Score: 87 → 12](https://img.shields.io/badge/AI%20Score-87%20→%2012-22c55e)
 ![Patterns](https://img.shields.io/badge/patterns-29-6c5ce7)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+![Live Demo](https://img.shields.io/badge/demo-live-22c55e)
+
+**[? Try it live ?](https://humanizer-tool-lilac.vercel.app)**
 
 ## What it does
 
